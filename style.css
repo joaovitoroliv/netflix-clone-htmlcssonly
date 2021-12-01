@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+h1 {
+    color: red
+}
+h2 {
+    color: white;
+}
+img {
+    max-width: 19.23vw;
+    height: 60vh;
+    border: 1px solid white;
+}
